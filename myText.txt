@@ -1,0 +1,9 @@
+Introduction
+The key to getting better at deep learning (or most fields in life) is practice. Practice on a variety of problems – from image processing to speech recognition. Each of these problem has it’s own unique nuance and approach.
+
+But where can you get this data? A lot of research papers you see these days use proprietary datasets that are usually not released to the general public. This becomes a problem, if you want to learn and apply your newly acquired skills.
+
+If you have faced this problem, we have a solution for you. We have curated a list of openly available datasets for your perusal.
+
+In this article, we have listed a collection of high quality datasets that every deep learning enthusiast should work on to apply and improve their skillset. Working on these datasets will make you a better data scientist and the amount
+of learning you will have will be invaluable in your career. We have also included papers with state-of-the-art (SOTA) results for you to go through and improve your models.
